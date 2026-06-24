@@ -1,6 +1,6 @@
 # Drag and Drop Events from External Source to Blazor Scheduler
 
-A quick start Blazor project that helps you to learn how to drag an item from an external TreeView component and drop it as an appointment onto the Blazor Scheduler of Syncfusion.
+A quick start Blazor project that helps you to learn how to drag an item from an external TreeView component and drop it as an appointment onto the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler).
 
 ## Features
 

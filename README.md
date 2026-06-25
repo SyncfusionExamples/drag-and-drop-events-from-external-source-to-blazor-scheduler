@@ -13,14 +13,13 @@ A quick start Blazor project that helps you to learn how to drag an item from an
 
 * Visual Studio 2022
 * .NET 5.0 or higher
-* Syncfusion Blazor components library
 
 ## How to Run the Project
 
-* Checkout this project to a location in your disk
-* Open the solution file using Visual Studio 2022
-* Restore the NuGet packages by rebuilding the solution
-* Run the project
+1. Checkout this project to your local machine
+2. Open the solution file using Visual Studio 2022
+3. Build the solution to restore the required NuGet packages
+4. Press `F5` to start the application
 
 ## Documentation
 
